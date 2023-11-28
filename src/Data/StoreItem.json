@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Chair",
+    "price": 120,
+    "ImageUrl": "/imgs/0.jpg",
+    "quantity": 0
+  },
+  {
+    "id": "2",
+    "name": "Computer",
+    "price": 101,
+    "ImageUrl": "/imgs/0.jpg",
+    "quantity": 0
+  },
+  {
+    "id": "3",
+    "name": "Phone",
+    "price": 200,
+    "ImageUrl": "/imgs/0.jpg",
+    "quantity": 0
+  },
+  {
+    "id": "4",
+    "name": "vega",
+    "price": 300,
+    "ImageUrl": "/imgs/0.jpg",
+    "quantity": 0
+  }
+]
